@@ -31,28 +31,26 @@ body {
 
 /* Number in buttons */
 
+
 .mm-h1 {
     font-family: 'uniFont', sans-serif;
     color: #ecf6fe;
     font-size: 3vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    line-height: 4vw;
     padding-top: 0.4vw;
+    padding-right: 0.1vw;
     
 }
+
+
 
 /* All Buttonns in animation */
 
 .mm-all-btn{
     height: 4vw;
     width: 4vw;
-    /* line-height: 2.5vw; */
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
     cursor: pointer;
     border-radius: 50%;
     animation: pulse 1.5s infinite;
@@ -107,7 +105,7 @@ body {
     justify-content: center;
     align-items: center;
     
-    text-align: center;
+    
     
 }
 
