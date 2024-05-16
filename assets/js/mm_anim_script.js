@@ -4,7 +4,7 @@ let mmAnimation = bodymovin.loadAnimation({
     render: 'CANVAS',
     loop: true,
     autoplay: false,
-    path: 'assets/animation/mm_animation_kk.json'
+    path: 'assets/animation/mm_kk_anim.json'
 });
 
 // Animation segments
